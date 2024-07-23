@@ -1,4 +1,4 @@
-package Section8Aula65.entities;
+package IntroduçãoAProgramaçãoOrientadaAObjetos.Triangle.entities;
 
 public class Triangle {
 
