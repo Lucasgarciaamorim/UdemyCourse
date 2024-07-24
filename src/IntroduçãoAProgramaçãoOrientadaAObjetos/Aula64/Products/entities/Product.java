@@ -1,4 +1,4 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Products.entities;
+package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Products.entities;
 
 public class Product {
 

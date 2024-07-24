@@ -1,6 +1,6 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Triangle.application;
+package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Triangle.application;
 
-import IntroduçãoAProgramaçãoOrientadaAObjetos.Triangle.entities.Triangle;
+import IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Triangle.entities.Triangle;
 
 import java.util.Scanner;
 

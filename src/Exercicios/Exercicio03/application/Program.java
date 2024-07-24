@@ -1,6 +1,6 @@
-package Exercicios.Exercicios03.application;
+package Exercicios.Exercicio03.application;
 
-import Exercicios.Exercicios03.entities.Estudent;
+import Exercicios.Exercicio03.entities.Estudent;
 
 import java.util.Locale;
 import java.util.Scanner;

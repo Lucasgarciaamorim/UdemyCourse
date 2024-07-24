@@ -1,6 +1,6 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Products.application;
+package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Products.application;
 
-import IntroduçãoAProgramaçãoOrientadaAObjetos.Products.entities.Product;
+import IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Products.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
