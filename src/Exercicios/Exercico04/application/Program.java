@@ -1,7 +1,6 @@
 package Exercicios.Exercico04.application;
 
 import Exercicios.Exercico04.entities.CurrencyConverter;
-import IntroduçãoAProgramaçãoOrientadaAObjetos.Aula71.util.Calculator;
 
 import java.util.Locale;
 import java.util.Scanner;

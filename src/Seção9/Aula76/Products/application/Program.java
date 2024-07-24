@@ -1,6 +1,6 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Products.application;
+package Seção9.Aula76.Products.application;
 
-import IntroduçãoAProgramaçãoOrientadaAObjetos.Aula64.Products.entities.Product;
+import Seção9.Aula76.Products.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -11,26 +11,28 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Product product = new Product();
 
         System.out.println("Enter Product Data: ");
 
         System.out.println("Name: ");
-        product.name = sc.nextLine();
+        String name = sc.nextLine();
 
         System.out.print("Price: ");
-        product.price = sc.nextDouble();
+        double price = sc.nextDouble();
 
         System.out.println("Quantity in Stock: ");
-        product.quantity = sc.nextInt();
+        int quantity = sc.nextInt();
+
+        Product product = new Product(name, price, quantity);
         System.out.println();
         System.out.println("Product data:" + product);
+
         System.out.println("Enter the number of products to be added in stock:");
-        int quantity = sc.nextInt();
+        quantity = sc.nextInt();
         product.addProducts(quantity);
 
         System.out.println();
-        System.out.println("Updated data" + product);
+        System.out.println("Updated data " + product);
 
         System.out.println("Product data:" + product);
         System.out.println("Enter the number of products to be remove in stock:");
@@ -38,7 +40,7 @@ public class Program {
         product.removeProducts(quantity);
 
         System.out.println();
-        System.out.println("Updated data" + product);
+        System.out.println("Updated data " + product);
 
 
         sc.close();

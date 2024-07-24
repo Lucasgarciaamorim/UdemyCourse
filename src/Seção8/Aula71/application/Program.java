@@ -1,6 +1,6 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula71.application;
+package Seção8.Aula71.application;
 
-import IntroduçãoAProgramaçãoOrientadaAObjetos.Aula71.util.Calculator;
+import Seção8.Aula71.util.Calculator;
 
 
 import java.util.Locale;

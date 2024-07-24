@@ -1,4 +1,4 @@
-package IntroduçãoAProgramaçãoOrientadaAObjetos.Aula71.util;
+package Seção8.Aula71.util;
 
 public class Calculator {
 
