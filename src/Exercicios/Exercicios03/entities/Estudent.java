@@ -5,7 +5,6 @@ public class Estudent {
     public double grade1;
     public double grade2;
     public double grade3;
-    public double mp;
 
 
     public double finalGrade() {
