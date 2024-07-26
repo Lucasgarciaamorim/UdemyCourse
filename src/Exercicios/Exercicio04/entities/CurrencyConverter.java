@@ -1,4 +1,4 @@
-package Exercicios.Exercico04.entities;
+package Exercicios.Exercicio04.entities;
 
 public class CurrencyConverter {
 

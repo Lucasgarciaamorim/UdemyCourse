@@ -1,6 +1,6 @@
-package Exercicios.Exercico04.application;
+package Exercicios.Exercicio04.application;
 
-import Exercicios.Exercico04.entities.CurrencyConverter;
+import Exercicios.Exercicio04.entities.CurrencyConverter;
 
 import java.util.Locale;
 import java.util.Scanner;
