@@ -4,7 +4,7 @@ public class Account {
 
     //correção
 
-        private int number;
+        private final int number;
         private String holder;
         private double balance;
 
